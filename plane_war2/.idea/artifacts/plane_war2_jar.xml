@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="plane_war2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/plane_war2_jar</output-path>
+    <root id="archive" name="plane_war2.jar">
+      <element id="module-output" name="plane_war2" />
+    </root>
+  </artifact>
+</component>
